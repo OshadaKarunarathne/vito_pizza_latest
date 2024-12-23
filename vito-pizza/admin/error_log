@@ -1,0 +1,13 @@
+[08-Sep-2023 12:16:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[08-Sep-2023 12:17:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[08-Sep-2023 12:18:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[08-Sep-2023 12:27:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 01:49:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 01:59:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 01:59:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:12:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:13:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:17:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:18:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:28:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/vitopizz/public_html/admin/upload_modal.php on line 5
+[09-Sep-2023 02:39:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/vitopizz/public_html/admin/upload_modal.php on line 5
